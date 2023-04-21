@@ -12,19 +12,6 @@
 
 Starter repository for a React & Vite & TypeScrip project using ESLint and Prettier recommended rules and styles, with Vitest unit test framework.
 
-## Installation
-
-```bash
-$ git clone https://github.com/shopot/react-vite-boilerplate.git
-$ rm -rf .git
-$ git init
-$ git remote add origin https://github.com/your_nickname/your-repo-name.git
-$ git branch -M main
-$ git push -u origin main
-$ npm install
-$ nom run prepare
-$ npm run dev
-```
 
 ## Running the app
 
